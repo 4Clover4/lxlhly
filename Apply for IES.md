@@ -38,7 +38,8 @@ Decide which pathway suits you best
 | **Business Performance Agreement (BPA)**  | BPA required before approval-in-principle                                         | Not applicable                                                           | Not applicable                                                           |
 
 [*Creat Account in MPNP*](https://web22.gov.mb.ca/sso/Account/LogOn/)
-![image](https://github.com/user-attachments/assets/a115d634-41b6-403a-a66d-e964cecc4511)
+![image](https://github.com/user-attachments/assets/ae3d36c2-b9f0-43b2-b925-912cb767aa3f)
+
 
 
 ## Step 2: Prepare Required Documents
