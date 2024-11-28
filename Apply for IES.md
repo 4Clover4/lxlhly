@@ -16,45 +16,136 @@ This SOP covers the entire application process, from preparation to submission, 
 5. Receive Invitation to Apply 
 6. Outcome and Follow-up  
 
-#### 1. **Choose Your Pathway**: Decide which pathway suits you best:
+## Step 1: **Choose Your Pathway**: 
+Decide which pathway suits you best
    - [**Career Employment Pathway**](https://immigratemanitoba.com/immigrate/ies/cep/eligibility/): For those who have found long-term employment in Manitoba.
    - 22220	2	[Computer network and web technicians](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1322554&CVD=1322870&CPV=22220&CST=01052021&CLV=5&MLV=5)	5	2281	B [In-Demand Occupations](https://immigratemanitoba.com/work/in-demand-occupations/)
    - [**Graduate Internship Pathway**](https://immigratemanitoba.com/immigrate/ies/graduate-internship/eligibility/): For those who have completed a master’s or doctoral degree and are registered in internships contributing to innovation in Manitoba.
    - [**International Student Entrepreneur Pilot (ISEP)**](https://immigratemanitoba.com/immigrate/ies/isep/eligibility/): For those who want to start a business in Manitoba.
 
+#### Eligibility
+
 | **Criterion**                             | **International Student Entrepreneur Pilot (ISEP)**                                 | **Graduate Internship Pathway**                                         | **Career Employment Pathway**                                           |
 |-------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | **Business Experience**                   | Business plan required, 51% ownership, senior manager for 6 months               | Not applicable                                                           | Not applicable                                                           |
-| **Official Languages Proficiency**        | CLB/NCLC 7 minimum                                                                | CLB/NCLC 7 minimum                                                       | CLB/NCLC 7 minimum                                                       |
+| **Official Languages Proficiency**        | [CLB](https://celpip-registration.paragontesting.ca/registration/#/registration/test-selection)/NCLC 7 minimum/[IELTS](https://ielts.org/test-centres) 6  minimum                                                             | CLB/NCLC 7 minimum/IELTS 6  minimum                                                         | CLB/NCLC 7 minimum/IELTS 6  minimum                                                         |
 | **Education**                             | Must have completed a post-secondary program in Manitoba of at least 2 years    | Must have completed a master's or doctoral degree within the past 3 years | Must have graduated in the past 3 years from a designated institution in Manitoba |
 | **Age**                                   | 21 to 35 years old                                                               | 18 years or older                                                        | 18 years or older                                                        |
 | **Internship/Employment**                 | Not applicable                                                                   | Must have completed Mitacs Elevate or Accelerate internship              | Must have a full-time job offer in Manitoba from an eligible employer   |
 | **Employment in Manitoba**                | Must operate the business in Manitoba                                           | Not required at the time of application                                   | Must be employed full-time in Manitoba with a valid work permit         |
-| **Settlement Funds**                      | Must show liquid funds meeting LICO for 12 months                                | Must show liquid funds meeting LICO for 6 months OR employed full-time  | Must show liquid funds meeting LICO for 6 months OR employed full-time |
+| **Settlement Funds**                      | Must show liquid funds meeting LICO(Low Income Measure) for 12 months                                | Must show liquid funds meeting LICO for 6 months OR employed full-time  | Must show liquid funds meeting LICO for 6 months OR employed full-time |
 | **Adaptability**                          | Must reside in Manitoba since graduation, intent to stay post-nomination        | Must reside in Manitoba at the time of application, intent to stay post-nomination | Must reside in Manitoba at the time of application, intent to stay post-nomination |
 | **Business Performance Agreement (BPA)**  | BPA required before approval-in-principle                                         | Not applicable                                                           | Not applicable                                                           |
 
-2. **Prepare Required Documents**: Gather the necessary documents. Here’s a checklist:
-   - **Birth Certificate**
-   - **Passport (including photo and detail pages)**
-   - **Visa (if applicable)**
-   - **Marriage, Divorce, or Death Certificates (if applicable)**
-   - **Birth Certificates, Adoption Papers, or Custody Agreements for Dependents**
-   - **Certified Copy of Certificate, Degree, or Diploma and Transcripts**
-   - **Signed Letter of Reference from Past Employers**
-   - **Proof of Funds**
-   - **Proof of English or French Proficiency (CLB/NCLC score of 7)**
-   - **Proof of Current Employment in Manitoba (if applicable)**
+## Step 2: Prepare Required Documents
 
-3. **Attend Information Session**: If applying through the Graduate Internship Pathway, attend an information session with Mitacs.
+| **Category**              | **Required Documents**                                                       |
+|---------------------------|-------------------------------------------------------------------------------|
+| **Personal ID**            | Birth Certificate, Passport (photo/detail pages), Visa (if applicable)        |
+| **Family Information**     | Marriage/Divorce/Death Certificates, Birth/Adoption Papers for Dependents     |
+| **Education Credentials**  | Certified Certificate, Degree/Diploma, Transcripts                            |
+| **Employment Proof**       | Signed Letter of Reference, Proof of Current Employment (if applicable)      |
+| **Language Proficiency**   | Proof of CLB/NCLC score of 7 in English/French or IELTS (with equivalent score)|
+| **Financial Stability**    | Proof of Funds (real estate, car property, stock funds)                      |
 
-4. **Submit Expression of Interest (EOI)**: Submit your EOI to the Manitoba Provincial Nominee Program (MPNP).
 
-5. **Receive Invitation to Apply (ITA)**: If your EOI is successful, you will receive an ITA.
+## Step 3: Attend Information Session
+### 3.1. Who Should Attend:
+- **Career Employment Pathway Applicants**:  
+  If you are seeking permanent residency through a job offer in Manitoba, this session is crucial for understanding the eligibility criteria and application process.
+  
+- **Graduate Internship Pathway Applicants**:  
+  If you’ve completed a master’s or PhD in Manitoba and participated in an internship, this session will guide you through the steps for your application.
+  
+- **ISEP Applicants**:  
+  While optional for those applying through the International Student Entrepreneur Pilot, attending the session can provide valuable insights into the process.
 
-6. **Submit Application**: Complete and submit your application with all required documents.
+### 3.2. Purpose:
+- **Application Guidance**:  
+  Receive step-by-step instructions on how to submit an Expression of Interest (EOI), prepare necessary documents, and complete the online application.
+  
+- **MPNP Portal Navigation**:  
+  Learn how to effectively use the Manitoba Provincial Nominee Program (MPNP) Portal for document submission, application tracking, and communication with MPNP staff.
 
-7. **Wait for Decision**: Wait for the MPNP to review your application and make a decision.
+### 3.3. Registration Process:
+- **Check the MPNP Website**:  
+  Review upcoming session dates and registration details on the MPNP website [https://immigratemanitoba.com](https://immigratemanitoba.com).
+  
+- **Register Online**:  
+  Complete the registration form with your personal details and pathway information.
+  
+- **Confirmation Email**:  
+  After registering, you’ll receive an email with the session date, time, and access information (for virtual sessions).
+
+### 3.4. Preparation:
+- **Review Program Information**:  
+  Familiarize yourself with the IES program and specific details of the pathway you're applying under, along with the necessary documents.
+  
+- **Organize Documents**:  
+  Ensure you have a clear overview of the documents required for your application, such as proof of employment, educational credentials, and language proficiency.
+
+### 3.5. Post-Session Actions:
+- **Review Materials**:  
+  If recordings or presentation slides are available, review them to reinforce your understanding of the process.
+  
+- **Follow Up**:  
+  If you have any further questions or need additional clarification, contact the MPNP via the [website](https://immigratemanitoba.com).
+  
+- **Start Your Application**:  
+  Once you feel confident, begin preparing your Expression of Interest (EOI) and necessary documents for submission.
+
+# Step 4. Submit Expression of Interest (EOI)
+
+### **Definition of EOI**
+EOI stands for Expression of Interest. It is the way to become a Permanent Residency in Canada.
+This process is a ranking system. This pathway comes under the **Skilled Worker Stream** and 
+**International Education Stream** and the Procedure for **Business Investor Steam** slightly is different for applying for an EOI.
+
+EOI is a online profile rather than a application. Submission of EOI is the initial step under Manitoba Provincial Nominee Program (MNNP) for immigration and because of it is a ranking system,
+it uses points based on the factors like education, work experience, language proficiency, age, adaptability, risk assessment.
+
+
+### 4.1. Required Information
+
+
+
+| **Category**            | **Details**                                                |
+|-------------------------|------------------------------------------------------------|
+| **Personal Information** | Full name, current address, contact details and othes .          |
+| **Education**            | Program name, institution name, qualification, duration of study |
+| **Work Experience**      | Job history, roles held, company, and duration of work     |
+| **Language Proficiency** | Results from English and French language tests (IELTS, CELPIP) |
+| **Additional Documents** | Criminal Records, Child Abuse Records, Adult Abuse Records (if necessary) |
+
+
+###  4.2. Complete the Expression of Interest application
+
+* Navigate to the official website MPNP portal.
+  
+    **Link:** https://immigratemanitoba.com/
+* Carefully submit all the required documents such as language test, work experience verification, financial statements criminal records and etc.
+
+* After completing the EOI form, submit the application on the MPNP portal.
+* It is really important submit to match the all the details and documents while submitting the information on the portal, because any kind of mistake can cause disqualification.
+
+ ### 4.3.  Fees
+  * It is important to check the processing fess of the application. The fee structure might be different for different pathways.
+ 
+# Step 5. Receive Invitation to Apply (ITA):
+
+  ### 5.1. Evaluation of EOI application
+  After the submission of application, the MPNP will evaluate the application on the basis of points-based system on the basis of all the factors such as education, work experience, adaptability, language skills, age and risk assessment.
+
+### 5.2. **MPNP Invitation Process**:
+  MPNP conducts regular draws from the pool of EOI applications. Candidates whose application get high the high rank, will get the **Invitation to Apply.**
+
+But **ITA** does not guarantee the permanent residency but allows the application to move for further stages.
+
+### 5.3. **ITA Notification**
+Once the ITA receive, MPNP will send the email, which contains all the instructions about how to apply for permanent residency. For this process, there are approximately 60 to 70 days to complete the application for PR.
+ 
+
+
 
 ### Useful Links
 - **MITT Program Guidebook**: [MITT Network and Systems Administrator Program Guidebook](https://mitt.ca/Content/Images/uploaded/Guidebooks/2024-2025%20Network%20and%20Systems%20Administrator%20Program%20Guidebook.pdf)
