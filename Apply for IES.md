@@ -1,11 +1,35 @@
 
-### Steps to Apply for IES
+# Apply for International Education Stream(IES) Career Employment Pathway
+
+## PURPOSE OF THE DOCUMENT
+The International Education Stream (IES) provides international students graduating from designated Manitoba post-secondary institutions a faster pathway to nomination to apply for permanent residency.
+
+## AUDIENCE
+This document is intended for international students to apply for permanent residency that they are graduated from the designed institution, designed program of Manitoba.
+
+## Prerequisites
+Before starting your application, ensure that:
+* You have decided on the appropriate pathway: Career Employment Pathway, Graduate Internship Pathway, or International Student Entrepreneur Pilot (ISEP).
+* You meet the eligibility criteria for your chosen pathway.
+* You have gathered all necessary documents as per the checklist below.
 
 1. **Choose Your Pathway**: Decide which pathway suits you best:
-   - **Career Employment Pathway**: For those who have found long-term employment in Manitoba.
+   - [**Career Employment Pathway**](https://immigratemanitoba.com/immigrate/ies/cep/eligibility/): For those who have found long-term employment in Manitoba.
    - 22220	2	[Computer network and web technicians](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1322554&CVD=1322870&CPV=22220&CST=01052021&CLV=5&MLV=5)	5	2281	B [In-Demand Occupations](https://immigratemanitoba.com/work/in-demand-occupations/)
-   - **Graduate Internship Pathway**: For those who have completed a master’s or doctoral degree and are registered in internships contributing to innovation in Manitoba.
-   - **International Student Entrepreneur Pilot (ISEP)**: For those who want to start a business in Manitoba.
+   - [**Graduate Internship Pathway**](https://immigratemanitoba.com/immigrate/ies/graduate-internship/eligibility/): For those who have completed a master’s or doctoral degree and are registered in internships contributing to innovation in Manitoba.
+   - [**International Student Entrepreneur Pilot (ISEP)**](https://immigratemanitoba.com/immigrate/ies/isep/eligibility/): For those who want to start a business in Manitoba.
+
+| **Criterion**                             | **International Student Entrepreneur Pilot (ISEP)**                                 | **Graduate Internship Pathway**                                         | **Career Employment Pathway**                                           |
+|-------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Business Experience**                   | Business plan required, 51% ownership, senior manager for 6 months               | Not applicable                                                           | Not applicable                                                           |
+| **Official Languages Proficiency**        | CLB/NCLC 7 minimum                                                                | CLB/NCLC 7 minimum                                                       | CLB/NCLC 7 minimum                                                       |
+| **Education**                             | Must have completed a post-secondary program in Manitoba of at least 2 years    | Must have completed a master's or doctoral degree within the past 3 years | Must have graduated in the past 3 years from a designated institution in Manitoba |
+| **Age**                                   | 21 to 35 years old                                                               | 18 years or older                                                        | 18 years or older                                                        |
+| **Internship/Employment**                 | Not applicable                                                                   | Must have completed Mitacs Elevate or Accelerate internship              | Must have a full-time job offer in Manitoba from an eligible employer   |
+| **Employment in Manitoba**                | Must operate the business in Manitoba                                           | Not required at the time of application                                   | Must be employed full-time in Manitoba with a valid work permit         |
+| **Settlement Funds**                      | Must show liquid funds meeting LICO for 12 months                                | Must show liquid funds meeting LICO for 6 months OR employed full-time  | Must show liquid funds meeting LICO for 6 months OR employed full-time |
+| **Adaptability**                          | Must reside in Manitoba since graduation, intent to stay post-nomination        | Must reside in Manitoba at the time of application, intent to stay post-nomination | Must reside in Manitoba at the time of application, intent to stay post-nomination |
+| **Business Performance Agreement (BPA)**  | BPA required before approval-in-principle                                         | Not applicable                                                           | Not applicable                                                           |
 
 2. **Prepare Required Documents**: Gather the necessary documents. Here’s a checklist:
    - **Birth Certificate**
