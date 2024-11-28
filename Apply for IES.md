@@ -37,8 +37,9 @@ Decide which pathway suits you best
 | **Adaptability**                          | Must reside in Manitoba since graduation, intent to stay post-nomination        | Must reside in Manitoba at the time of application, intent to stay post-nomination | Must reside in Manitoba at the time of application, intent to stay post-nomination |
 | **Business Performance Agreement (BPA)**  | BPA required before approval-in-principle                                         | Not applicable                                                           | Not applicable                                                           |
 
-[*Creat Account in MPNP](https://web22.gov.mb.ca/sso/Account/LogOn/)
-(![image](https://github.com/user-attachments/assets/e74e1b19-b9a6-44e6-8e49-3b9ce9edc81f)
+[*Creat Account in MPNP*](https://web22.gov.mb.ca/sso/Account/LogOn/)
+![image](https://github.com/user-attachments/assets/a115d634-41b6-403a-a66d-e964cecc4511)
+
 
 ## Step 2: Prepare Required Documents
 
