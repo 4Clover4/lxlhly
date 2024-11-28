@@ -1,5 +1,5 @@
 
-# Apply for International Education Stream(IES) Career Employment Pathway
+# Apply for International Education Stream(IES) 
 
 ## PURPOSE OF THE DOCUMENT
 The International Education Stream (IES) provides international students graduating from designated Manitoba post-secondary institutions a faster pathway to nomination to apply for permanent residency.
@@ -7,13 +7,16 @@ The International Education Stream (IES) provides international students graduat
 ## AUDIENCE
 This document is intended for international students to apply for permanent residency that they are graduated from the designed institution, designed program of Manitoba.
 
-## Prerequisites
-Before starting your application, ensure that:
-* You have decided on the appropriate pathway: Career Employment Pathway, Graduate Internship Pathway, or International Student Entrepreneur Pilot (ISEP).
-* You meet the eligibility criteria for your chosen pathway.
-* You have gathered all necessary documents as per the checklist below.
+## SCOPE/OBJECTIVES
+This SOP covers the entire application process, from preparation to submission, including:
+1. Choose Your Pathway
+2. Document Preparation and Checklist
+3. Application Submission
+4. Post-Submission Process
+5. Receive Invitation to Apply 
+6. Outcome and Follow-up  
 
-1. **Choose Your Pathway**: Decide which pathway suits you best:
+#### 1. **Choose Your Pathway**: Decide which pathway suits you best:
    - [**Career Employment Pathway**](https://immigratemanitoba.com/immigrate/ies/cep/eligibility/): For those who have found long-term employment in Manitoba.
    - 22220	2	[Computer network and web technicians](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1322554&CVD=1322870&CPV=22220&CST=01052021&CLV=5&MLV=5)	5	2281	B [In-Demand Occupations](https://immigratemanitoba.com/work/in-demand-occupations/)
    - [**Graduate Internship Pathway**](https://immigratemanitoba.com/immigrate/ies/graduate-internship/eligibility/): For those who have completed a master’s or doctoral degree and are registered in internships contributing to innovation in Manitoba.
