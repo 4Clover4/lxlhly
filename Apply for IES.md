@@ -11,10 +11,11 @@ This document is intended for international students to apply for permanent resi
 This SOP covers the entire application process, from preparation to submission, including:
 1. Choose Your Pathway
 2. Document Preparation and Checklist
-3. Application Submission
-4. Post-Submission Process
-5. Receive Invitation to Apply 
-6. Outcome and Follow-up  
+3. Attend Information Session
+4. Application Submission
+5. Post-Submission Process
+6. Receive Invitation to Apply 
+7. Outcome and Follow-up  
 
 
 
