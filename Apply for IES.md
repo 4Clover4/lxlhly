@@ -124,6 +124,8 @@ it uses points based on the factors like education, work experience, language pr
 | **Work Experience**      | Job history, roles held, company, and duration of work     |
 | **Language Proficiency** | Results from English and French language tests (IELTS, CELPIP) |
 | **Additional Documents** | Criminal Records, Child Abuse Records, Adult Abuse Records (if necessary) |
+
+
 ![image](https://github.com/user-attachments/assets/4124de7d-af72-4f3d-a9ec-c82ca060c059)
 
 
