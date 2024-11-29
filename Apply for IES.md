@@ -124,6 +124,7 @@ it uses points based on the factors like education, work experience, language pr
 | **Work Experience**      | Job history, roles held, company, and duration of work     |
 | **Language Proficiency** | Results from English and French language tests (IELTS, CELPIP) |
 | **Additional Documents** | Criminal Records, Child Abuse Records, Adult Abuse Records (if necessary) |
+![image](https://github.com/user-attachments/assets/4124de7d-af72-4f3d-a9ec-c82ca060c059)
 
 
 ###  4.2. Complete the Expression of Interest application
@@ -132,6 +133,7 @@ it uses points based on the factors like education, work experience, language pr
   
     **Link:** https://immigratemanitoba.com/
 * Carefully submit all the required documents such as language test, work experience verification, financial statements criminal records and etc.
+![image](https://github.com/user-attachments/assets/ed22636e-fbec-4560-ae4e-203187ab4677)
 
 * After completing the EOI form, submit the application on the MPNP portal.
 * It is really important submit to match the all the details and documents while submitting the information on the portal, because any kind of mistake can cause disqualification.
