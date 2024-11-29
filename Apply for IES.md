@@ -207,7 +207,7 @@ Once the LLA receive, MPNP will send the email, which contains all the instructi
 2. Language Proficiency Issues: If your language test score is below the required level (CLB/NCLC 7 or equivalent IELTS score), consider taking language courses to improve your skills before reapplying.
 Application Rejection: If your application is rejected, carefully review the feedback from MPNP, fix any issues, and try applying again.
 Conclusion
-3. By following the steps in this guide—choosing the right pathway, preparing your documents, and submitting a complete Expression of Interest (EOI)—you can successfully apply for permanent residency through the International Education Stream (IES). Just make sure all your information is accurate, your documents are complete, and you meet the eligibility requirements to increase your chances of approval.
+
 
 ### Conclusion
 By following the steps in this guide—choosing the right pathway, preparing your documents, and submitting a complete Expression of Interest (EOI)—you can successfully apply for permanent residency through the International Education Stream (IES). Just make sure all your information is accurate, your documents are complete, and you meet the eligibility requirements to increase your chances of approval.
