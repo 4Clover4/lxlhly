@@ -16,6 +16,8 @@ This SOP covers the entire application process, from preparation to submission, 
 5. Receive Invitation to Apply 
 6. Outcome and Follow-up  
 
+
+
 ## Step 1: **Choose Your Pathway**: 
 Decide which pathway suits you best
    - [**Career Employment Pathway**](https://immigratemanitoba.com/immigrate/ies/cep/eligibility/): For those who have found long-term employment in Manitoba.
@@ -52,6 +54,7 @@ Decide which pathway suits you best
 | **Employment Proof**       | Signed Letter of Reference, Proof of Current Employment (if applicable)      |
 | **Language Proficiency**   | Proof of CLB/NCLC score of 7 in English/French or IELTS (with equivalent score)|
 | **Financial Stability**    | Proof of Funds (real estate, car property, stock funds)                      |
+
 
 
 ## Step 3: Attend Information Session
@@ -99,6 +102,19 @@ Decide which pathway suits you best
 - **Start Your Application**:  
   Once you feel confident, begin preparing your Expression of Interest (EOI) and necessary documents for submission.
 
+
+# Step 4. Submit Expression of Interest (EOI)
+
+### **Definition of EOI**
+EOI stands for Expression of Interest. It is the way to become a Permanent Residency in Canada.
+This process is a ranking system. This pathway comes under the **Skilled Worker Stream** and 
+**International Education Stream** and the Procedure for **Business Investor Steam** slightly is different for applying for an EOI.
+
+EOI is a online profile rather than a application. Submission of EOI is the initial step under Manitoba Provincial Nominee Program (MNNP) for immigration and because of it is a ranking system,
+it uses points based on the factors like education, work experience, language proficiency, age, adaptability, risk assessment.
+
+
+
 # Step 4. Submit Expression of Interest (EOI)
 
 ### **Definition of EOI**
@@ -113,7 +129,6 @@ it uses points based on the factors like education, work experience, language pr
 ### 4.1. Required Information
 
 
-
 | **Category**            | **Details**                                                |
 |-------------------------|------------------------------------------------------------|
 | **Personal Information** | Full name, current address, contact details and othes .          |
@@ -122,17 +137,13 @@ it uses points based on the factors like education, work experience, language pr
 | **Language Proficiency** | Results from English and French language tests (IELTS, CELPIP) |
 | **Additional Documents** | Criminal Records, Child Abuse Records, Adult Abuse Records (if necessary) |
 
-![image](https://github.com/user-attachments/assets/dd6d1bfb-4446-4441-a10c-106f681be7d6)
-
 
 ###  4.2. Complete the Expression of Interest application
-
 
 * Navigate to the official website MPNP portal.
   
     **Link:** https://immigratemanitoba.com/
 * Carefully submit all the required documents such as language test, work experience verification, financial statements criminal records and etc.
-![image](https://github.com/user-attachments/assets/c6d6a60b-ce58-4f75-bf53-a6edffb8b10b)
 
 * After completing the EOI form, submit the application on the MPNP portal.
 * It is really important submit to match the all the details and documents while submitting the information on the portal, because any kind of mistake can cause disqualification.
@@ -140,19 +151,63 @@ it uses points based on the factors like education, work experience, language pr
  ### 4.3.  Fees
   * It is important to check the processing fess of the application. The fee structure might be different for different pathways.
  
-# Step 5. Receive Invitation to Apply (ITA):
+
+
+# Step 5. Letter of Advice to Apply (LAA):
 
   ### 5.1. Evaluation of EOI application
   After the submission of application, the MPNP will evaluate the application on the basis of points-based system on the basis of all the factors such as education, work experience, adaptability, language skills, age and risk assessment.
 
 ### 5.2. **MPNP Invitation Process**:
-  MPNP conducts regular draws from the pool of EOI applications. Candidates whose application get high the high rank, will get the **Invitation to Apply.**
+  MPNP conducts regular draws from the pool of EOI applications. Candidates whose application get high points, will get the **Letter of Advice to Apply.**
 
-But **ITA** does not guarantee the permanent residency but allows the application to move for further stages.
+But **LLA** does not guarantee the permanent residency but allows the application to move for further stages.
 
-### 5.3. **ITA Notification**
-Once the ITA receive, MPNP will send the email, which contains all the instructions about how to apply for permanent residency. For this process, there are approximately 60 to 70 days to complete the application for PR.
- 
+### 5.3. **LLA Notification**
+Once the LLA receive, MPNP will send the email, which contains all the instructions about how to apply for permanent residency. For this process, there are approximately 60 to 70 days to complete the application for PR.
+
+
+
+## Step 6. Submit Application
+#### MPNP Application Process
+
+| Category                  | Requirements                                                                                                                                                                  |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Fee Payment**           | - A non-refundable $500 CAD application fee must be paid at the time of submission.                                                                                         |
+| **Document Format and Language** | - **Format**: Documents must be in `.pdf` or `.jpg` format, with each file less than 2 MB.                                                                                  |
+|                           | - **Language**: Documents must be in English or French.                                                                                                                      |
+| **Personal Information**  | - **ID**: Birth certificate, passport.                                                                                                                                       |
+|                           | - **Residence**: Residence permit, visas.                                                                                                                                     |
+|                           | - **Marital Status**: Marriage/divorce/death certificates.                                                                                                                    |
+|                           | - **Dependants**: Birth certificates (showing names of both parents), adoption papers, custody agreements, travel documents.                                                  |
+| **Education**             | - Provide a certificate, degree, or diploma for each completed program.                                                                                                      |
+|                           | - Provide transcripts for each completed program.                                                                                                                            |
+| **Employment**            | - Provide documents supporting declarations of employment history for the past five years for both you and your spouse.                                                      |
+| **Immigration History and Status** | - Provide documents supporting declarations regarding previous immigration applications to Canada, as well as previous/current visits or stays in Canada for you, your spouse, and any adult dependants. |
+| **Language Ability**      | - Proof of language ability equivalent to CLB7.                                                                                                                              |
+| **Settlement Funds**      | - Demonstrate liquid funds equivalent to the **Low Income Cut-Off (LICO)** for independent financial resources for six months, or proof of a full-time, long-term position in Manitoba. |
+| **Settlement Plan**       | - Explain why you chose Manitoba as your immigration destination.                                                                                                            |
+|                           | - Describe how you plan to settle in the community and find a job, or, if working in Manitoba, advance your career.                                                           |
+| **Express Entry Applicants** | - Provide an Express Entry profile and verification code.                                                                                                                    |
+|                           | - Provide an Educational Credential Assessment (ECA) for foreign education.                                                                                                   |
+|                           | - Provide a copy of application/profile details from IRCC.                                                                                                                   |
+|                           | - Provide financial documents proving sufficient funds to meet Express Entry requirements.                                                                                    |
+
+---
+
+
+
+## Step 7. Wait for Decision
+
+### Nomination
+
+- If the MPNP approves your application, you will receive a nomination certificate, meaning that you are now a provincial nominee.
+- Nomination certificates are valid for six months. It is expected that you apply for Permanent Residency (PR) during this period.
+
+### PR Application
+
+- Follow the steps on the [Application for Permanent Residence – Provincial Nominee Class (IMM P7000)](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-permanent-residence-provincial-nominee.html) page of the Immigration, Refugees, and Citizenship Canada (IRCC) website to apply for PR.
+
 
 
 
