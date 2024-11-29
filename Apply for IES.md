@@ -37,7 +37,7 @@ Decide which pathway suits you best
 | **Adaptability**                          | Must reside in Manitoba since graduation, intent to stay post-nomination        | Must reside in Manitoba at the time of application, intent to stay post-nomination | Must reside in Manitoba at the time of application, intent to stay post-nomination |
 | **Business Performance Agreement (BPA)**  | BPA required before approval-in-principle                                         | Not applicable                                                           | Not applicable                                                           |
 
-[*Creat Account in MPNP*](https://web22.gov.mb.ca/sso/Account/LogOn/)
+[*Creat Account in GoM*](https://web22.gov.mb.ca/sso/Account/LogOn/)
 ![image](https://github.com/user-attachments/assets/ae3d36c2-b9f0-43b2-b925-912cb767aa3f)
 
 
@@ -122,8 +122,11 @@ it uses points based on the factors like education, work experience, language pr
 | **Language Proficiency** | Results from English and French language tests (IELTS, CELPIP) |
 | **Additional Documents** | Criminal Records, Child Abuse Records, Adult Abuse Records (if necessary) |
 
+![image](https://github.com/user-attachments/assets/dd6d1bfb-4446-4441-a10c-106f681be7d6)
+
 
 ###  4.2. Complete the Expression of Interest application
+![image](https://github.com/user-attachments/assets/6f14e678-0182-411f-8deb-c063fcf58255)
 
 * Navigate to the official website MPNP portal.
   
