@@ -131,7 +131,7 @@ it uses points based on the factors like education, work experience, language pr
 
 ###  4.2. Complete the Expression of Interest application
 
-* Navigate to the official website [MPNP portal](https://immigratemanitoba.com/).
+* Navigate to the official website [EOI](https://immigratemanitoba.com/immigrate/apply/eoi/).
   
 * Carefully submit all the required documents such as language test, work experience verification, financial statements criminal records and etc.
 ![image](https://github.com/user-attachments/assets/ed22636e-fbec-4560-ae4e-203187ab4677)
