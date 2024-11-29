@@ -110,7 +110,7 @@ EOI stands for Expression of Interest. It is the way to become a Permanent Resid
 This process is a ranking system. This pathway comes under the **Skilled Worker Stream** and 
 **International Education Stream** and the Procedure for **Business Investor Steam** slightly is different for applying for an EOI.
 
-EOI is a online profile rather than a application. Submission of EOI is the initial step under Manitoba Provincial Nominee Program (MNNP) for immigration and because of it is a ranking system,
+EOI is a online profile rather than a application. Submission of EOI is the initial step under Manitoba Provincial Nominee Program (MPNP) for immigration and because of it is a ranking system,
 it uses points based on the factors like education, work experience, language proficiency, age, adaptability, risk assessment.
 
 
