@@ -132,7 +132,8 @@ it uses points based on the factors like education, work experience, language pr
   
     **Link:** https://immigratemanitoba.com/
 * Carefully submit all the required documents such as language test, work experience verification, financial statements criminal records and etc.
-![image](https://github.com/user-attachments/assets/6f14e678-0182-411f-8deb-c063fcf58255)
+![image](https://github.com/user-attachments/assets/c6d6a60b-ce58-4f75-bf53-a6edffb8b10b)
+
 * After completing the EOI form, submit the application on the MPNP portal.
 * It is really important submit to match the all the details and documents while submitting the information on the portal, because any kind of mistake can cause disqualification.
 
