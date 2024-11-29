@@ -205,6 +205,9 @@ Application Rejection: If your application is rejected, carefully review the fee
 Conclusion
 3. By following the steps in this guide—choosing the right pathway, preparing your documents, and submitting a complete Expression of Interest (EOI)—you can successfully apply for permanent residency through the International Education Stream (IES). Just make sure all your information is accurate, your documents are complete, and you meet the eligibility requirements to increase your chances of approval.
 
+### Conclusion
+By following the steps in this guide—choosing the right pathway, preparing your documents, and submitting a complete Expression of Interest (EOI)—you can successfully apply for permanent residency through the International Education Stream (IES). Just make sure all your information is accurate, your documents are complete, and you meet the eligibility requirements to increase your chances of approval.
+
 ### Useful Links
 - **MITT Program Guidebook**: [MITT Network and Systems Administrator Program Guidebook](https://mitt.ca/Content/Images/uploaded/Guidebooks/2024-2025%20Network%20and%20Systems%20Administrator%20Program%20Guidebook.pdf)
 - **IES Application Process**: [International Education Stream | Manitoba Immigration](https://immigratemanitoba.com/immigrate/ies/)
