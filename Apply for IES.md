@@ -19,6 +19,7 @@ This SOP covers the entire application process, from preparation to submission, 
 
 
 
+
 ## Step 1: **Choose Your Pathway**: 
 Decide which pathway suits you best
    - [**Career Employment Pathway**](https://immigratemanitoba.com/immigrate/ies/cep/eligibility/): For those who have found long-term employment in Manitoba.
