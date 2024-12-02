@@ -42,13 +42,15 @@
 |Laptop| NA|7|
 |Workstation| NA|14|
 
-MS-1 FE0/1----S-1 FE0/23
-MS-1 FE0/
-S-1 FE0/1-----S-2 FE0/1
-S-1 FE0/2-----S-2 FE0/2
+MS-1 FE0/1-----S-1 FE0/23
+MS-1 FE0/2-----S-3 FE0/23
+S-1  FE0/1-----S-2 FE0/1
+S-1  FE0/2-----S-2 FE0/2
 
-S-2 FE0/3-----S-3 FE0/3
-S-2 FE0/23----MS-1 FE0/1
-S-2 FE0/24----MS-2 FE0/1
-S-2 FE0/4-----S-3 FE0/4
+S-2  FE0/23----MS-1 FE0/1
+S-2  FE0/24----MS-2 FE0/1
+
+S-2  FE0/3-----S-3 FE0/3
+S-2  FE0/4-----S-3 FE0/4
+
 
