@@ -8,7 +8,9 @@
 
   1. Define department and subnets
   2. Establish Network Infrastructure test on the Packet Tracer
-  3. Devices List and port
+  3. Devices List and port connect
+  4. Configure devices command
+  5. 
 ## Step 1. Department 
 
 
@@ -45,7 +47,7 @@
 
 
 
-# Console Connections for Devices
+## step 3.  Console Connections for Devices
 
 ## **Connections Between Switches and Multi-layer Switches**
 - **MS-1 FE0/1** ----- **S-1 FE0/23**  
@@ -69,3 +71,8 @@
 - **ServerFile F0** ----- **Fa0/10**  
 - **ServerDHCP F0** ----- **Fa0/11**  
 ![image](https://github.com/user-attachments/assets/7c94c010-5685-44e5-bd33-4a9edbdbd1b0)
+
+
+
+
+
