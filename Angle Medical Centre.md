@@ -42,19 +42,29 @@
 |Laptop| NA|7|
 |Workstation| NA|14|
 
-MS-1 FE0/1-----S-1 FE0/23
-MS-1 FE0/2-----S-3 FE0/23
-S-1  FE0/1-----S-2 FE0/1
-S-1  FE0/2-----S-2 FE0/2
 
-S-2  FE0/23----MS-1 FE0/1
-S-2  FE0/24----MS-2 FE0/1
 
-S-2  FE0/3-----S-3 FE0/3
-S-2  FE0/4-----S-3 FE0/4
 
-S-2 FE0/5-----WR-1 0/1
-S-3 FE0/5-----WR-2 0/1
+# Console Connections for Devices
 
-ServerFile F0--Fa0/10
-ServerDHCP F0--Fa0/11
+## **Connections Between Switches and Multi-layer Switches**
+- **MS-1 FE0/1** ----- **S-1 FE0/23**  
+- **MS-1 FE0/2** ----- **S-3 FE0/23**  
+- **S-1 FE0/1** ----- **S-2 FE0/1**  
+- **S-1 FE0/2** ----- **S-2 FE0/2**  
+
+## **Connections Between Multi-layer Switches and Other Devices**
+- **S-2 FE0/23** ----- **MS-1 FE0/1**  
+- **S-2 FE0/24** ----- **MS-2 FE0/1**  
+
+## **Connections Between Switches**
+- **S-2 FE0/3** ----- **S-3 FE0/3**  
+- **S-2 FE0/4** ----- **S-3 FE0/4**  
+
+## **Connections Between Switches and Routers**
+- **S-2 FE0/5** ----- **WR-1 0/1**  
+- **S-3 FE0/5** ----- **WR-2 0/1**  
+
+## **Connections Between Switches and Servers**
+- **ServerFile F0** ----- **Fa0/10**  
+- **ServerDHCP F0** ----- **Fa0/11**  
