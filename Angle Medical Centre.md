@@ -55,3 +55,6 @@ S-2  FE0/4-----S-3 FE0/4
 
 S-2 FE0/5-----Wireless0/1
 S-3 FE0/5-----Wireless0/2
+
+ServerFile F0--Fa0/10
+ServerDHCP F0--Fa0/11
