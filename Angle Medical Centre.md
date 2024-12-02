@@ -54,8 +54,8 @@
 - **S-1 FE0/2** ----- **S-2 FE0/2**  
 
 ## **Connections Between Multi-layer Switches and Other Devices**
-- **S-2 FE0/23** ----- **MS-1 FE0/1**  
-- **S-2 FE0/24** ----- **MS-2 FE0/1**  
+- **S-2 FE0/23** ----- **MLS-1 FE0/1**  
+- **S-2 FE0/24** ----- **MLS-2 FE0/1**  
 
 ## **Connections Between Switches**
 - **S-2 FE0/3** ----- **S-3 FE0/3**  
@@ -68,3 +68,4 @@
 ## **Connections Between Switches and Servers**
 - **ServerFile F0** ----- **Fa0/10**  
 - **ServerDHCP F0** ----- **Fa0/11**  
+![image](https://github.com/user-attachments/assets/7c94c010-5685-44e5-bd33-4a9edbdbd1b0)
