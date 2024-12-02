@@ -8,7 +8,7 @@
 
   1. Define department and subnets
   2. Establish Network Infrastructure test on the Packet Tracer
-  3. Devices List
+  3. Devices List and port
 ## Step 1. Department 
 
 
@@ -53,8 +53,8 @@ S-2  FE0/24----MS-2 FE0/1
 S-2  FE0/3-----S-3 FE0/3
 S-2  FE0/4-----S-3 FE0/4
 
-S-2 FE0/5-----Wireless0/1
-S-3 FE0/5-----Wireless0/2
+S-2 FE0/5-----WR-1 0/1
+S-3 FE0/5-----WR-2 0/1
 
 ServerFile F0--Fa0/10
 ServerDHCP F0--Fa0/11
