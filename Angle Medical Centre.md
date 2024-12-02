@@ -53,4 +53,5 @@ S-2  FE0/24----MS-2 FE0/1
 S-2  FE0/3-----S-3 FE0/3
 S-2  FE0/4-----S-3 FE0/4
 
-
+S-2 FE0/5-----Wireless0/1
+S-3 FE0/5-----Wireless0/2
