@@ -14,7 +14,7 @@
 ## Step 1. Department 
 
 
-| Department      | Number      | Subnet
+| Department      | Number      | Network
 | ------------- | ------------- | ------------- 
 |Medical | 28|10.128.250.0/24|
 |Services|10 |10.128.250.32/28|
