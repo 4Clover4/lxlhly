@@ -16,7 +16,7 @@
 
 | Department      | Number      | Network          |Vlan          |Gateway       |
 | -------------   | ------------- | -------------- |------------- |------------- |
-|Medical          | 28            |10.128.250.0/27|10            |10.128.250.1
+|Medical          | 28            |10.128.250.0/27 |10            |10.128.250.1
 |GeneralServices  | 10            |10.128.250.32/28|20            |10.128.250.33
 |Lab              | 4             |10.128.250.48/29|30            |10.128.250.49
 | Frontdesk       | 3             |10.128.250.56/30|40            |10.128.250.57
@@ -54,13 +54,13 @@
 ## step 3.  Console Connections for Devices
 
 ## **Connections Between Switches and Multi-layer Switches**
-- **MS-1 FE0/1** ----- **S-1 FE0/23**  
-- **MS-1 FE0/2** ----- **S-3 FE0/23**  
+- **MLS-1 F0/1** ----- **S-2 F0/23**  
+- **MLS-1 G0/2** ----- **S-3 G0/23**  
 - **S-1 FE0/1** ----- **S-2 FE0/1**  
 - **S-1 FE0/2** ----- **S-2 FE0/2**  
 
 ## **Connections Between Multi-layer Switches and Other Devices**
-- **S-2 FE0/23** ----- **MLS-1 FE0/1**  
+- **S-2 FE0/23** ----- **MLS-1 FE0/2**  
 - **S-2 FE0/24** ----- **MLS-2 FE0/1**  
 
 ## **Connections Between Switches**
