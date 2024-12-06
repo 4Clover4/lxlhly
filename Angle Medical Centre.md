@@ -69,10 +69,11 @@ s# Group 3
 | Switch 1      |  S-1     |192.168.80.0    |192.168.80.1   |  |80            |f0/12-15
 | Switch 1      |  S-1     |192.168.90.0    |192.168.90.1   |  |90            |f0/16-20
 
-
-| Device        | Name     | Network        |Gateway        |port           |ip address         |Port Assignments     |
-| ------------- | ---------| -------------  | ------------- | ------------- |------------- |------------- |
-| Layer3 Switch |  MLS-2   |192.168.2.0     |192.168.2.1    |f0/2           | 192.168.2.245             |
+ 
+| Device        | Name     | Network           |Gateway        |port           |ip address         |Port Assignments     |
+| ------------- | ---------| -------------     | ------------- | ------------- |------------- |------------- |
+| Layer3 Switch |  MLS-2   |192.168.2.0        |192.168.2.1    |f0/2           | 192.168.2.245             |
+|*Internet*     | Router1  |10.128.207.200/24  |10.128.200.1   |g/1            |   
 
 ## step 3.  Console Connections for Devices
 
