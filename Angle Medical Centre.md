@@ -105,7 +105,11 @@ Weekdays
 
 ## **Connections Between Switches and Servers**
 - **ServerFile F0** ----- **Fa0/10**  
-- **ServerDHCP F0** ----- **Fa0/11**  
+- **ServerDHCP F0** ----- **Fa0/11**
+
+##connection wireless router-1 to MS-1
+MS-1 f/23 -------   Wireless router
+- 
 ![image](https://github.com/user-attachments/assets/7c94c010-5685-44e5-bd33-4a9edbdbd1b0)
 
 
