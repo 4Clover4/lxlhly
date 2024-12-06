@@ -73,7 +73,7 @@ s# Group 3
 | Device        | Name     | Network           |Gateway        |port           |ip address         |Port Assignments     |
 | ------------- | ---------| -------------     | ------------- | ------------- |------------- |------------- |
 | Layer3 Switch |  MLS-2   |192.168.2.0        |192.168.2.1    |f0/2           | 192.168.2.245             |
-|*Internet*     | Router1  |10.128.207.200/24  |10.128.200.1   |g/1            |   
+|*Internet*     | Router1  |10.128.207.0/24 |10.128.207.1   |g/1            |   |10.128.207.200
 
 ## step 3.  Console Connections for Devices
 
