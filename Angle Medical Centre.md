@@ -87,7 +87,14 @@ Weekdays
 
 ## **Connections Between Switches and Multi-layer Switches**
 - **MLS-1 F0/1** ----- **S-2 F0/23**  
-- **MLS-1 G0/2** ----- **S-3 G0/23**  
+- **MLS-1 G0/2** ----- **S-3 G0/23**
+-
+-   MLS-1  f0/1 ---------S1  f0/1
+-   MLS-1 f0/5 ----------s1  f0/2
+
+-  MLS-2  f0/1 ---------s1  f0/3
+-  MLS-2  f0/5 ---------s1  f0/4
+-  
 - **S-1 FE0/1** ----- **S-2 FE0/1**  
 - **S-1 FE0/2** ----- **S-2 FE0/2**  
 
@@ -107,9 +114,22 @@ Weekdays
 - **ServerFile F0** ----- **Fa0/10**  
 - **ServerDHCP F0** ----- **Fa0/11**
 
-##connection wireless router-1 to MS-1
-MS-1 f/23 -------   Wireless router
 - 
+
+##connection wireless router-1 to MS-1
+MS-1 f/23 192.168.20.1 ‘-------   Wireless router
+
+
+
+![image](https://github.com/user-attachments/assets/690e9612-2960-446f-b6a7-8a79898ccab1)
+
+
+
+
+
+- 
+
+
 ![image](https://github.com/user-attachments/assets/7c94c010-5685-44e5-bd33-4a9edbdbd1b0)
 
 
